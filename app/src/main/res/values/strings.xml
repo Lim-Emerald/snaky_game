@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Snaky</string>
+    <string name="left">left</string>
+    <string name="up">up</string>
+    <string name="down">down</string>
+    <string name="right">right</string>
+    <string name="pause">pause</string>
+    <string name="zero">0</string>
+    <string name="score">Score:</string>
+</resources>
